@@ -8,8 +8,8 @@
   "iconFill": true,
   "order": [
     "hero",
-    "socials",
     "about",
+    "socials",
     "stack",
     "projects",
     "stats",
@@ -63,12 +63,16 @@
             "label": "TypeScript"
           },
           {
-            "icon": "brand:react",
-            "label": "React"
-          },
-          {
             "icon": "brand:python",
             "label": "Python"
+          },
+          {
+            "icon": "brand:gnubash",
+            "label": "Bash"
+          },
+          {
+            "icon": "brand:rust",
+            "label": "Rust"
           }
         ]
       },
@@ -78,10 +82,6 @@
           {
             "icon": "brand:git",
             "label": "Git"
-          },
-          {
-            "icon": "brand:figma",
-            "label": "Figma"
           },
           {
             "icon": "brand:githubactions",
